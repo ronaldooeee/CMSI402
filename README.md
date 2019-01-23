@@ -1,2 +1,2 @@
 # CMSI402
-Repository for CMSI 402 containing code and assets for Project (NONAME)
+Repository for CMSI 402 containing code and assets for Project (Pending Title)
